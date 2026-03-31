@@ -28,18 +28,26 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
-<img width="1364" height="713" alt="image" src="https://github.com/user-attachments/assets/5a41bf1f-faff-4f95-8d5a-8fc3c4a1396f" />
-<img width="1364" height="716" alt="image" src="https://github.com/user-attachments/assets/2cff4e65-a275-4273-9cfc-bfdde29fcbf9" />
+
+<img width="1919" height="1199" alt="564213149-3a5f7222-1a86-4773-aa01-0a32d5834270" src="https://github.com/user-attachments/assets/3dc5d4ef-773a-4790-842d-ab7ab35d243c" />
 
 ### 2. Network Server – Recent Events
 
-<img width="498" height="470" alt="image" src="https://github.com/user-attachments/assets/806ec505-fbea-460d-abda-0b0e40ca5b45" />
+<img width="1918" height="1138" alt="Screenshot 2026-03-20 125003" src="https://github.com/user-attachments/assets/8235808c-1324-4617-a6e7-3a109b099f09" />
 
 
 
 ### 3. Dashboard Command Sending
-<img width="1006" height="830" alt="image" src="https://github.com/user-attachments/assets/b0bee21a-e807-4b76-90c7-a5120773c183" />
-<img width="959" height="854" alt="image" src="https://github.com/user-attachments/assets/9d145637-b131-4aa6-907f-6c98d6847a15" />
+<img width="1919" height="1172" alt="Screenshot 2026-02-24 135058" src="https://github.com/user-attachments/assets/8c19b0ad-b4d9-4159-a138-d32ed7cbee3d" />
+<img width="1917" height="1168" alt="Screenshot 2026-02-24 135040" src="https://github.com/user-attachments/assets/7323bb87-f8a0-4adc-895e-555ce790f43e" />
+<img width="1914" height="1167" alt="Screenshot 2026-02-24 135025" src="https://github.com/user-attachments/assets/5dea07de-c845-48a9-912e-b1269c7bf59c" />
+<img width="1919" height="1169" alt="Screenshot 2026-02-24 135014" src="https://github.com/user-attachments/assets/2bfeb484-9390-44b5-840d-85d6e1aedf31" />
+<img width="1919" height="1198" alt="Screenshot 2026-02-24 134957" src="https://github.com/user-attachments/assets/588a439f-f941-4ae0-bb3b-38831d7bcce3" />
+<img width="1919" height="1168" alt="Screenshot 2026-02-24 135118" src="https://github.com/user-attachments/assets/f31c5e82-36a0-45c8-bc97-66c0a84a30bd" />
+<img width="1919" height="1173" alt="Screenshot 2026-02-24 135131" src="https://github.com/user-attachments/assets/23a3285d-255e-4d60-906e-67835fecf984" />
+
+<img width="1904" height="1128" alt="Screenshot 2026-03-20 125017" src="https://github.com/user-attachments/assets/ef0430a9-56cc-447f-bc5b-62c392aedc8a" />
+<img width="1917" height="1033" alt="Screenshot 2026-03-20 125244" src="https://github.com/user-attachments/assets/ce749dc2-3efa-4328-bc0c-6dadcb7f104f" />
 
 
 ### 4. Relay Status Dashboard Output
